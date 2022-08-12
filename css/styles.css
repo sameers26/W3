@@ -1,0 +1,196 @@
+body
+{
+    font-family: "Montserrat";
+}
+.hthree
+{
+    font-family: 'Montserrat-Bold', sans-serif;
+}
+.htwo
+{
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: #fff;
+}
+p
+{
+    color: #8f8f8f;
+}
+#title
+{
+    background-color: #ff4c68;
+}
+
+.heading
+{
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: white;
+
+}
+
+.container-fluid
+{
+    padding: 3% 15%;
+}
+
+.navbar-brand
+{
+    font-size: 3rem;
+    font-family: "Ubuntu";
+    font-weight: bold;
+    color: #fff;
+}
+.navbar
+{
+    padding-bottom: 0 0 4.5rem;
+}
+.nav-item
+{
+    padding: 0px 18px;
+}
+.nav-link
+{
+    font-size: 1.2rem;
+    font-family: "Montserrat-light";
+}
+.download-buttons
+{
+    margin: 5% 3% 5% 0;
+}
+.title-img
+{
+    width: 20%;
+    transform: rotate(25deg);
+    position: absolute;
+
+}
+#features
+{
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+.feature-box
+{
+    text-align: center;
+    padding: 5%;
+}
+.icon
+{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover
+{
+    color: #ff4c68;
+}
+.testimonial-image
+{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+    
+}
+#testimonials
+{
+    text-align: center;
+    background-color: #ef8172;
+}
+#press
+{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.presss-logo
+{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item
+{
+    padding: 7% 15%;
+}
+.card
+{
+    text-align: center;
+}
+.sign
+{
+    position: relative;
+    top: 85%;
+}
+#pricing
+{
+    padding: 100px;
+}
+.pricing-colmn
+{
+    padding: 3% 2%;
+}
+
+@media (max-width:1028px)
+{
+    #title
+    {
+        text-align: center;
+    }
+
+    .title-img
+    {
+    width: 60%;
+    transform: rotate(0deg);
+    position: static;
+    }
+
+}
+
+@media (min-width:1710px)
+{
+    .title-img
+    {
+        width: 15%;;
+        left: 60%;
+    }
+}
+@media (min-width:2268px)
+{
+    .title-img
+    {
+        width: 13%;;
+        left: 62%;
+    }
+}
+
+.cta-div
+{
+    text-align: center;
+    padding: 5%;
+    background-color: #ff4c68;
+}
+.cta-h3
+{
+    color: white;
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 2.6rem;
+    line-height: 2;
+    position: relative;
+    margin-bottom: 3%;
+}
+.bt-left
+{
+    margin-right: 2%;
+}
+#footer
+{
+    
+    text-align: center;
+}
+.ic
+{
+    padding: 1% 1%;
+}
+
